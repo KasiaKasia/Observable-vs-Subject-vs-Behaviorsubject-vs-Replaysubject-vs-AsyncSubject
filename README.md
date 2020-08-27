@@ -33,6 +33,7 @@ pobierz wartości 3 Observable
 Observables to (lazy Push ) leniwe kolekcje push wypychające jedną lub wiele wartości. Promise zawsze 1 (colback fukcji)
  Aby wywołać Observable trzeba zasubskrybować.
  Observables mogą dostarczać wartości synchronicznie lub asynchronicznie
+
 --- Subject
 subject.subscribe value =>   2 subject.next
 subject.subscribe value =>   3 subject.next
