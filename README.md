@@ -18,7 +18,7 @@ git clone https://github.com/kasiaOla/Observable-vs-Subject-vs-Behaviorsubject-v
 - ts-node Observable-vs-Subject-vs-Behaviorsubject-vs-Replaysubject-vs-AsyncSubject.ts
 
 ## Output
-``
+```
 --- Observable
 1 Observable
 2 Observable
